@@ -90,9 +90,7 @@ const about: About = {
     title: "Introduction",
     description: (
       <>
-        Selene is a Jakarta-based design engineer with a passion for transforming complex challenges
-        into simple, elegant design solutions. Her work spans digital interfaces, interactive
-        experiences, and the convergence of design and technology.
+        Data Analyst with 5+ years of experience in enterprise data management and business intelligence. Currently completing a 𝗠𝗮𝘀𝘁𝗲𝗿'𝘀 𝗗𝗲𝗴𝗿𝗲𝗲 𝗶𝗻 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲.
       </>
     ),
   },
@@ -101,9 +99,9 @@ const about: About = {
     title: "Work Experience",
     experiences: [
       {
-        company: "FLY",
-        timeframe: "2022 - Present",
-        role: "Senior Design Engineer",
+        company: "Capgemini Engineering",
+        timeframe: "2024 - Present",
+        role: "Data Analyst",
         achievements: [
           <>
             Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user
@@ -116,26 +114,33 @@ const about: About = {
         ],
         images: [
           // optional: leave the array empty if you don't want to display images
-          {
+          /*{
             src: "/images/projects/project-01/cover-01.jpg",
             alt: "Once UI Project",
             width: 16,
             height: 9,
           },
-        ],
+        */],
       },
       {
-        company: "Creativ3",
-        timeframe: "2018 - 2022",
-        role: "Lead Designer",
+        company: "Prisync",
+        timeframe: "2021 - 2024",
+        role: "Business Development Analyst",
         achievements: [
           <>
-            Developed a design system that unified the brand across multiple platforms, improving
-            design consistency by 40%.
+            Led cross-functional team of 28 specialists in data operations and lead management, implementing process optimizations that improved operational efficiency by 20%.
           </>,
           <>
-            Led a cross-functional team to launch a new product line, contributing to a 15% increase
-            in overall company revenue.
+            Managed Smart Match and Lead Qualification pipelines, establishing KPI frameworks to measure conversion rates and enhance lead-company alignment accuracy.
+          </>,
+          <>
+            Conducted technical feasibility assessments for ERP, PIM, and Feed Management systems, identifying data workflow bottlenecks that reduced processing time by 15%.
+          </>,
+          <>
+            Analyzed Digital Asset Management operations, providing actionable insights on asset utilization metrics to guide strategic resource allocation decisions.
+          </>,
+          <>
+            Executed market analysis of PPC agencies across UK and Australian B2B markets, evaluating conversion metrics to identify strategic partnerships projected to deliver 5% ROI improvement.
           </>,
         ],
         images: [],
