@@ -152,13 +152,13 @@ const about: About = {
     title: "Studies",
     institutions: [
       {
-        name: "University of Jakarta",
-        description: <>Studied software engineering.</>,
+        name: "University of Colorado Builder | 2025-2027",
+        description: <>Master of Science in Data Science</>,
       },
       {
-        name: "Build the Future",
-        description: <>Studied online marketing and personal branding.</>,
-      },
+        name: "Boğaziçi University | 2018-2024",
+        description: <>Computer Education and Educational Technologies</>,
+      }
     ],
   },
   technical: {
