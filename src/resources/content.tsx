@@ -40,6 +40,12 @@ const social: Social = [
   link: "https://medium.com/@selengecagin",
   essential: true,
 },
+{
+  name: "LeetCode",
+  icon: "leetcode",
+  link: "https://leetcode.com/u/selengecagin/",  // Add your LeetCode username
+  essential: true,
+},
   {
     name: "Email",
     icon: "email",

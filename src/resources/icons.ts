@@ -1,5 +1,7 @@
 import { IconType } from "react-icons";
 import { FaMedium } from "react-icons/fa6";
+import { SiLeetcode } from "react-icons/si";
+
 
 import {
   HiArrowUpRight,
@@ -65,7 +67,8 @@ export const iconLibrary: Record<string, IconType> = {
   reddit: FaReddit,
   telegram: FaTelegram,
   instagram: FaInstagram,
-  medium: FaMedium, 
+  medium: FaMedium,
+  leetcode: SiLeetcode,
 };
 
 export type IconLibrary = typeof iconLibrary;
