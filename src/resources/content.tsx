@@ -157,12 +157,12 @@ const about: About = {
       },
       {
         name: "Boğaziçi University | 2018-2024",
-        description: <>Computer Education and Educational Technologies</>,
+        description: <>Bachelor of Science in Computer Education and Educational Technologies</>,
       }
     ],
   },
   technical: {
-    display: true, // set to false to hide this section
+    display: false, // set to false to hide this section
     title: "Technical skills",
     skills: [
       {
