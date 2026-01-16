@@ -2,7 +2,6 @@ import { IconType } from "react-icons";
 import { FaMedium } from "react-icons/fa6";
 import { SiLeetcode } from "react-icons/si";
 
-
 import {
   HiArrowUpRight,
   HiOutlineLink,

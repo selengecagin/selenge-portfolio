@@ -43,7 +43,7 @@ const social: Social = [
 {
   name: "LeetCode",
   icon: "leetcode",
-  link: "https://leetcode.com/u/selengecagin/",  // Add your LeetCode username
+  link: "https://leetcode.com/u/selengecagin/", 
   essential: true,
 },
   {
