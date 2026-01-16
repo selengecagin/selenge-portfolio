@@ -2,7 +2,7 @@ import { About, Blog, Gallery, Home, Newsletter, Person, Social, Work } from "@/
 import { Line, Row, Text } from "@once-ui-system/core";
 
 const person: Person = {
-  firstName: "Huri Selenge",
+  firstName: "Selenge",
   lastName: "ÇAĞIN",
   name: "Huri Selenge ÇAĞIN",
   role: "Data Analyst",
@@ -35,11 +35,18 @@ const social: Social = [
     essential: true,
   },
   {
+  name: "Medium",
+  icon: "medium",
+  link: "https://medium.com/@selengecagin",
+  essential: true,
+},
+  {
     name: "Email",
     icon: "email",
     link: `mailto:${person.email}`,
     essential: true,
   },
+
 ];
 
 const home: Home = {
@@ -61,7 +68,7 @@ const home: Home = {
     href: "/work/building-once-ui-a-customizable-design-system",
   },
   subline: (
-<>I'm Selenge, a data analyst at <Text as="span" size="xl" weight="strong">Capgemini Engineering</Text>, where I transform complex data into <br /> actionable insights. After hours, I build my portfolio and create content.</>
+<>Hello I'm Selenge, a data analyst at <Text as="span" size="xl" weight="strong">Capgemini Engineering</Text>, where I transform complex data into <br /> actionable insights. After hours, I build my portfolio and create content.</>
   ),
 };
 
