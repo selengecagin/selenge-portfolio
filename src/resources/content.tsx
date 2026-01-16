@@ -53,19 +53,15 @@ const home: Home = {
     display: true,
     title: (
       <Row gap="12" vertical="center">
-        <strong className="ml-4">Once UI</strong>{" "}
-        <Line background="brand-alpha-strong" vert height="20" />
         <Text marginRight="4" onBackground="brand-medium">
-          Featured work
+          Featured Projects
         </Text>
       </Row>
     ),
     href: "/work/building-once-ui-a-customizable-design-system",
   },
   subline: (
-    <>
-    I'm Selene, a design engineer at <Text as="span" size="xl" weight="strong">ONCE UI</Text>, where I craft intuitive <br /> user experiences. After hours, I build my own projects.
-</>
+<>I'm Selenge, a data analyst at <Text as="span" size="xl" weight="strong">Capgemini Engineering</Text>, where I transform complex data into <br /> actionable insights. After hours, I build my portfolio and create content.</>
   ),
 };
 
